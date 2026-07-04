@@ -179,4 +179,16 @@ This project demonstrates an end-to-end analytics pipeline:
 
 ## 👨‍💻 Author
 
-deepak
+**Deepanshu Jangid**
+
+B.Tech Computer Science
+
+Data Analytics | Python | SQL | Power BI
+
+![powerbi dashboard](image.png)
+
+GitHub:
+https://github.com/deepanshu83
+
+LinkedIn:
+https://www.linkedin.com/in/deepanshujangid83/
